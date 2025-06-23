@@ -1,4 +1,4 @@
 # nidhig-demo
 This is my first Git Repository.
 <br>
-author -nidhi
+author -nidhi g
